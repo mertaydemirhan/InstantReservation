@@ -27,15 +27,10 @@ C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Npgsql.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\RabbitMQ.Client.dll
@@ -61,3 +56,4 @@ C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.sourcelink.json
