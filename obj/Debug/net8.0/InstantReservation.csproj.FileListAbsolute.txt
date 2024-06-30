@@ -4,8 +4,6 @@ C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.AssemblyInfo.cs
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.csproj.CoreCompileInputs.cache
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\src\Web\appsettings.Development.json
-C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\src\Web\appsettings.json
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\InstantReservation.staticwebassets.runtime.json
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\InstantReservation.exe
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\InstantReservation.deps.json
@@ -57,3 +55,5 @@ C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\merta\source\repos\InstantReservation\InstantReservation\obj\Debug\net8.0\InstantReservation.sourcelink.json
+C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\merta\source\repos\InstantReservation\InstantReservation\bin\Debug\net8.0\appsettings.json
