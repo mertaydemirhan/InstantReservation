@@ -15,7 +15,7 @@ InstantReservation, otel rezervasyonlarını yönetmek için geliştirilmiş bir
 1. Projeyi klonlayın:
 
    ```bash
-   git clone https://github.com/kullanıcı/InstantReservation.git
+   git clone https://github.com/mertaydemirhan/InstantReservation.git
    cd InstantReservation
 
 2. Bağlantı dizesini ve RabbitMQ ayarlarını appsettings.json dosyasında güncelleyin:
